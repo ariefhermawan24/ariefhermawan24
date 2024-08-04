@@ -45,7 +45,7 @@ Saya adalah pelajar SMK Negeri 6 Surakarta yang memiliki minat besar dalam penge
    - **Tech Stack:** HTML, CSS, JavaScript
     <br>
    
-       ![Coming Soon](https://img.shields.io/badge/Link-Coming_Soon-lightgrey?style=for-the-badge)
+       [![ariefhermawan.my.id](https://img.shields.io/badge/Link-ariefhermawan.my.id-blue?style=for-the-badge)](https://ariefhermawan.my.id)
 
 
 ### 2. Websites Tugas PKL
